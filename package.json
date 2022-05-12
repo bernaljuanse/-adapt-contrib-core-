@@ -5,7 +5,7 @@
   "description": "Adapt Framework kernel. Responsible for boot loading, data loading and core APIs.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adaptlearning/adapt-contrib-core.git"
+    "url": "https://github.com/bernaljuanse/adapt-contrib-core.git"
   },
   "keywords": [
     "adapt-plugin",
